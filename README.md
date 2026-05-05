@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 My name is Rahma Ismail and I'm a Software Engineering student at the **University of Victoria** passionate about
-**Embedded Systems** and **Artificial Intelligence**.
+Embedded Systems and Artificial Intelligence!
 
 I build across the stack — from low-level systems to AI-powered applications.
-Currently working on a **Streamlit app** and training an **LLM from scratch**.
-Also **ISC2 Certified in Cybersecurity**, with hands-on internship experience in cybersecurity.
+Currently working on a Streamlit app and training an LLM from scratch.
+Also ISC2 Certified in Cybersecurity, with hands-on internship experience in cybersecurity.
 
 **Languages & Tools:**
 C · Java · Python · Go · Rust · JavaScript · React · Node.js · SQL
