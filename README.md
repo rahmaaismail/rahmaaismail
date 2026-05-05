@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Rahma Ismail and I'm a Software Engineering student at the **University of Victoria** passionate about
+My name is Rahma Ismail and I'm a Software Engineering student at the University of Victoria interested in
 Embedded Systems and Artificial Intelligence!
 
 I build across the stack — from low-level systems to AI-powered applications.
