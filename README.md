@@ -7,8 +7,8 @@ I build across the stack — from low-level systems to AI-powered applications.
 Currently working on a Streamlit app and training an LLM from scratch.
 Also ISC2 Certified in Cybersecurity, with hands-on internship experience in cybersecurity.
 
-**Languages & Tools:**
-C · Java · Python · Go · Rust · JavaScript · React · Node.js · SQL
+**Programming Languages:**
+C · Java · Python · Go · Rust · JavaScript · TypeScript · React · Next.js · Node.js · SQL
 
 📫 rahma3a.ismail@gmail.com
 
