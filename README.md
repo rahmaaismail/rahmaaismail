@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Rahma Ismail
 
-Software Engineering student at the University of Victoria interested in Embedded Systems** and Artificial Intelligence.
+Software Engineering student at the University of Victoria interested in Embedded Systems and Artificial Intelligence.
 I build across the stack from low-level firmware to AI-powered applications. Currently exploring AI and embedded systems, and looking for a co-op for Spring 2027. Hands-on co-op experience in cybersecurity and ISC2 Certified in Cybersecurity.
 
 <p align="center">
