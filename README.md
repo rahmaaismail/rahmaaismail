@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Rahma Ismail
 
-Software Engineering student at the University of Victoria interested in **Embedded Systems** and **Artificial Intelligence**.
-I build across the stack — from low-level firmware to AI-powered applications. Currently exploring AI and embedded systems, and looking for a co-op for Spring 2027. ISC2 Certified in Cybersecurity.
+Software Engineering student at the University of Victoria interested in Embedded Systems** and Artificial Intelligence.
+I build across the stack from low-level firmware to AI-powered applications. Currently exploring AI and embedded systems, and looking for a co-op for Spring 2027. Hands-on co-op experience in cybersecurity and ISC2 Certified in Cybersecurity.
 
 <p align="center">
   <a href="mailto:rahma3a.ismail@gmail.com"><img src="https://img.shields.io/badge/gmail-%2312100E.svg?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
